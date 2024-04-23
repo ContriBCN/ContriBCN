@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**ContriBCN/ContriBCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Héctor from Barcelona.
 
-Here are some ideas to get you started:
+* Currently working in Yamaha Motor
+* As data turns into a passion, more interested I'm on it
+* Working on Dashboard design to make easier making decision to the dealer manager
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### SKILLS
+
+* Experience at Automotive Industry
+* Analysis skills
+* Knoweledge of BI tools such as Power BI, Tableau
+* Advance knoweledge of MS Excel 
+* SQL coding, R and starting with Python
+
+### CONTACT
+https://www.linkedin.com/in/h%C3%A9ctor-contreras-6a107b111/
